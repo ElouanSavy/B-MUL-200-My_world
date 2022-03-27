@@ -1,0 +1,12 @@
+The map format is a 40x40 int map like below:
+
+n n n n n n n n ... n 
+n n n n n n n n ... n 
+n n n n n n n n ... n 
+n n n n n n n n ... n 
+. . . . . . . . ... . 
+. . . . . . . . ... . 
+. . . . . . . . ... . 
+n n n n n n n n ... n 
+
+Each int represent the virtual height of each point of the map. 
